@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinterface.a  CMakeFiles/interface.dir/autopilot_interface.cpp.o
+/usr/bin/ranlib libinterface.a

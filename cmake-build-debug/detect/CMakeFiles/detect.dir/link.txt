@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdetect.a  CMakeFiles/detect.dir/GeometryTypes.cpp.o CMakeFiles/detect.dir/Marker.cpp.o CMakeFiles/detect.dir/MarkerDetector.cpp.o CMakeFiles/detect.dir/fire_recognition.cpp.o
+/usr/bin/ranlib libdetect.a

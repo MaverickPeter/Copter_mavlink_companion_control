@@ -1,0 +1,34 @@
+Detecting C [-std=c99] compiler features failed to compile with the following output:
+Change Dir: /home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6f92f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6f92f.dir/build.make CMakeFiles/cmTC_6f92f.dir/build
+make[1]: Entering directory '/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6f92f.dir/feature_tests.c.o
+/usr/lib/ccache/cc    -std=c99 -o CMakeFiles/cmTC_6f92f.dir/feature_tests.c.o   -c /home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/feature_tests.c
+ccache: error: Failed to create file /home/maverickp/.ccache/9/e/bc21b994679f79acbf4c7be87cc1a6-665.o.tmp.stdout.mav.4750.f1i5GV: Permission denied
+CMakeFiles/cmTC_6f92f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_6f92f.dir/feature_tests.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_6f92f.dir/feature_tests.c.o] Error 1
+make[1]: Leaving directory '/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_6f92f/fast' failed
+make: *** [cmTC_6f92f/fast] Error 2
+
+
+
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: /home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_65615/fast"
+/usr/bin/make -f CMakeFiles/cmTC_65615.dir/build.make CMakeFiles/cmTC_65615.dir/build
+make[1]: Entering directory '/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_65615.dir/feature_tests.cxx.o
+/usr/lib/ccache/c++     -std=c++14 -o CMakeFiles/cmTC_65615.dir/feature_tests.cxx.o -c /home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/feature_tests.cxx
+ccache: error: Failed to create file /home/maverickp/.ccache/3/b/e1996e17f6a1223ca04f2677644816-3308.o.tmp.stdout.mav.4784.s1Lmkm: Permission denied
+CMakeFiles/cmTC_65615.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_65615.dir/feature_tests.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_65615.dir/feature_tests.cxx.o] Error 1
+make[1]: Leaving directory '/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_65615/fast' failed
+make: *** [cmTC_65615/fast] Error 2
+
+
+

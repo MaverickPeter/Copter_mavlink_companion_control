@@ -1,0 +1,7 @@
+/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/install.dir
+/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/list_install_components.dir
+/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/rebuild_cache.dir
+/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/marker_AR.dir
+/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/install/strip.dir
+/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/install/local.dir
+/home/maverickp/zhongkongbei/artag-try/build/CMakeFiles/edit_cache.dir

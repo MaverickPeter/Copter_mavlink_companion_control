@@ -1,0 +1,12 @@
+/home/maverickp/zhongkongbei_cmake/build/CMakeFiles/edit_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/CMakeFiles/mavlink_control.dir
+/home/maverickp/zhongkongbei_cmake/build/detect/CMakeFiles/edit_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/detect/CMakeFiles/rebuild_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/detect/CMakeFiles/detect.dir
+/home/maverickp/zhongkongbei_cmake/build/interface/CMakeFiles/rebuild_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/interface/CMakeFiles/edit_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/interface/CMakeFiles/interface.dir
+/home/maverickp/zhongkongbei_cmake/build/serial/CMakeFiles/edit_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/serial/CMakeFiles/rebuild_cache.dir
+/home/maverickp/zhongkongbei_cmake/build/serial/CMakeFiles/serial.dir
